@@ -2,35 +2,29 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Inc
+111
   
 -->
-555
+222
 
 </header>
 
 <!--
   <<< Author notes: Step 1 >>>
-  Choo
+333
 -->
 
-## Step
-
-![profile-readme-example](/images/profile-readme-example.png)
-
-### :keyboard: Activity: Your first branch
-
-1. Open
+4444
 
 <footer>
 
 <!--
   <<< Author notes: Footer >>>
- 
+ 555
 -->
-
+666
 ---
 
-
+7777
 
 </footer>
